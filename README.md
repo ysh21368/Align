@@ -20,9 +20,6 @@
 
 - 참고 논문 - https://www.nature.com/articles/s41598-023-47479-w
 - 참고 githug - https://github.com/bfsujason/bertalign
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/a402149c-dbcb-4fe7-a10c-77ca948df19c/4a4bc093-2773-45fc-89f9-36efae98bb10/Untitled.png)
-
 - Bertalign을 사용하여 sample로 영어 - 프랑스어 얼라인(align)작업을 진행 하였음
 - Bertalign 선정이유 :
     - 해당 논문을 참고하여 Bertalign이 여러 성능 측정 지표에서 다른 align 알고리즘들보다 우수한 성능을 보여 선택
